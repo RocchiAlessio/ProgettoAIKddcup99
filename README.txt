@@ -10,5 +10,4 @@ I diversi files jupyter sono:
 
 - kddcup99.ipynb: dove si effettua lo stesso processo per kddcup99_10percent.ipynb ma su quello totale.
 
-- kddcup99_IG.ipynb: dove si studiano i miglioramenti dell'albero usando il concetto di Information Gain per ottimizzare i tempi
-		     di addestramento e preprocessing.
+- kddcup99_IG.ipynb: dove si studiano i miglioramenti dell'albero usando il concetto di Information Gain per ottimizzare i tempi di addestramento e preprocessing.
